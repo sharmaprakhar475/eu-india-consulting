@@ -28,10 +28,21 @@ h4 {
 	font-weight: 400;
 }
 h5 {
-	font-size: 14px;
+	font-size: 16px;
 	color: #2d3033;
 	text-transform: uppercase;
 	font-weight: 700;
+}
+h6 {
+	font-size: 14px;
+	color: #2d3033;
+	text-transform: uppercase;
+	font-weight: 500;
+}
+ul {
+	font-size: 14px;
+	color: #2d3033 ;
+	font-weight: 500;
 }
 .btn {
 	background-color: transparent;
@@ -65,7 +76,7 @@ h5 {
 	Global Styles
 -------------------------------------------------------------------------------*/
 a {
-	color: red;
+	color: salmon;
 }
 a:hover, a:focus {
 	text-decoration: none;
@@ -379,6 +390,7 @@ Common Styles
 }
 .services {
 	margin-bottom: 50px;
+	height: max-content;
 }
 .services-content {
 	padding: 30px 20px 20px 89px;
@@ -389,6 +401,7 @@ Common Styles
 	position: relative;
 	/* z-index: 9; */
 	box-shadow: 2px 2px 4px rgba(72, 72, 72, 0.34);
+	
 }
 .services-content:before {
     content: '';
@@ -536,7 +549,7 @@ About
 }
 
 .content-3-10 .image-container .background-image-holder {
-	background: url('../images/06.jpg') no-repeat center center;
+	background: url('../images/consulting-implementation.jpg') no-repeat center center;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
