@@ -44,6 +44,11 @@ ul {
 	color: #2d3033 ;
 	font-weight: 500;
 }
+ol {
+	font-size: 14px;
+	color: #2d3033 ;
+	font-weight: 500;
+}
 .btn {
 	background-color: transparent;
 	color: salmon;
@@ -942,4 +947,10 @@ footer.footer h2 {
 	color: #e84545;
 	font-size: 11px;
 	margin: 0 2px;
+}
+.pl-0{
+	padding-left: 40px;
+}
+.pb-0{
+	padding-bottom: 5px;
 }
