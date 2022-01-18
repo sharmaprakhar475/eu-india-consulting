@@ -42,7 +42,7 @@ include "./header.php";
   <div class="container">
   <div class="section-header">
     <h2 class="wow fadeInDown animated" style="padding-bottom: 10px;">Masters Program</h2>
-    <p style="padding-bottom: 30px;text-align: left;">We are offering Master Programs in German as the medium of instruction whereby we support the students with the admission process to the MA program as well to the DSH-Preparation.</p>
+    <p style="padding-bottom: 30px;text-align: left;">We are offering Master Programs in German as the medium of instruction whereby we support the students with the admission process to the MA program as well as to the DSH-Preparation.</p>
     <!-- <h3 class="wow fadeInDown animated" style="padding-top: 20px;padding-bottom: 20px;">Higher Education</h3> -->
     <!-- <div class="row">
       <div class="col-md-6 col-sm-6 services text-center"> <span class="icon icon-strategy"></span>

@@ -313,7 +313,7 @@ include "./header.php";
 </section>
 -->
 <!-- our team section --> 
-<section id="pricing5" data-section="pricing-5" class="data-section">
+<!-- <section id="pricing5" data-section="pricing-5" class="data-section">
     <div class="container">
           <div class="section-header">
                 <h2 class="wow fadeInDown animated">Pricing</h2>
@@ -377,7 +377,7 @@ include "./header.php";
             </div>
          </div>
     </div>
-</section>
+</section> -->
 <!-- Testimonials section -->
 <section id="testimonials" class="section testimonials no-padding">
   <div class="container-fluid">
