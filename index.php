@@ -146,7 +146,7 @@ include "./header.php";
 
 
 <!-- package section -->
-<section class="video-section">
+<!-- <section class="video-section">
   <div class="container"> 
     <div class="row">  
             <div id="content24" data-section="content-24" class="data-section"> 
@@ -161,10 +161,10 @@ include "./header.php";
 				  <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/146742515?badge=0" allowfullscreen=""></iframe>
 				</div>
 			</div> 
-    	</div>
-			</div><!-- end row -->    
-  </div>
-</section>
+    	</div> -->
+			<!-- </div>end row     -->
+  <!-- </div>
+</section> -->
 <!-- package section --> 
 
 <!-- gallery section -->
