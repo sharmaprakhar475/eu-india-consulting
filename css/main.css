@@ -145,7 +145,7 @@ ul li {
 	margin-top: -10px;
 }
 #header.fixed {
-	background-color:darkblue;
+	background-color:grey;
 }
 #header.fixed a {
 	/* color: #000; */
@@ -953,4 +953,8 @@ footer.footer h2 {
 }
 .pb-0{
 	padding-bottom: 5px;
+}
+.euindia-banner img{
+	width:100vw;
+
 }

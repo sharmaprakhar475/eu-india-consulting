@@ -39,11 +39,18 @@ include "./header.php";
 <!-- intro section --> 
 <!-- services section -->
 <section id="services" class="services service-section">
-<img src="./images/ma.jpg" height="800px" width="1470px">
+
   <div class="container">
   <div class="section-header">
     <h2 class="wow fadeInDown animated" style="padding-bottom: 10px;">Masters Program</h2>
+    <div class="row">
+      <div class="col-sm-6">
     <p style="padding-bottom: 30px;text-align: left;">We are offering Master Programs in German as the medium of instruction whereby we support the students with the admission process to the MA program as well as to the DSH-Preparation.</p>
+</div>
+    <div class="col-sm-6">
+    <img src="./images/ma.jpg" height="300px" width="fit-content">
+</div>
+</div>
     <!-- <h3 class="wow fadeInDown animated" style="padding-top: 20px;padding-bottom: 20px;">Higher Education</h3> -->
     <!-- <div class="row">
       <div class="col-md-6 col-sm-6 services text-center"> <span class="icon icon-strategy"></span>
@@ -60,7 +67,7 @@ include "./header.php";
       </div>
       </div> -->
     <!-- <h3 class="wow fadeInDown animated" style="padding-top: 20px;padding-bottom: 20px;">Vocational/Dual Degree Programs</h3> -->
-    <div class="row">
+    <div class="row" style="padding-top:30px;">
       <div class="col-md-4 col-sm-4 services text-center"> 
         <div class="services-content pl-0" style="text-align: left;"> 
           <h5>APPLIED BIOSCIENCES</h5>

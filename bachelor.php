@@ -39,7 +39,7 @@ include "./header.php";
 <!-- intro section --> 
 <!-- services section -->
 <section id="services" class="services service-section">
-<img src="./images/ba.jpg" height="800px" width="1470px">
+
   <div class="container">
   <div class="section-header">
     <h2 class="wow fadeInDown animated" style="padding-bottom: 10px;">Bachelor Programs</h2>
@@ -123,8 +123,14 @@ include "./header.php";
         </div>
       </div>
      </div>
-     <p style="text-align: left;">In order to have admission to the BA Foundation Year to prepare for the FSP, we hold the entrance test to the Studienkolleg twice a year in India in cooperation with our partner universities. After passing the entrance test, the student will be granted admission to the Studienkolleg as well as to the BA program at the University. No application with Uni-assist is required.</p>
-     
+     <div class="row">
+       <div class="col-sm-6">
+       <img src="./images/ba.jpg" height="350px" width="fit-content">
+         </div>
+      <div class="col-sm-6">
+      <p style="text-align: left;">In order to have admission to the BA Foundation Year to prepare for the FSP, we hold the entrance test to the Studienkolleg twice a year in India in cooperation with our partner universities. After passing the entrance test, the student will be granted admission to the Studienkolleg as well as to the BA program at the University. No application with Uni-assist is required.</p>
+      </div>
+    </div>
   </div>
   </div>
 </section>

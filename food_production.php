@@ -52,14 +52,18 @@ include "./header.php";
         <li>Elaboration of legal rules and regulations</li>
         <li>Implementation of quality controls on raw materials, intermediate and end products</li>
         </ol>
-        <img src="./images/industrial_technician.jpg" height="650px" width="1250px">
         <h3 style="text-align: left;">Industrial Electrician in Food Production</h3>
-        <p style="padding-bottom:10px;text-align: left;">An industrial electrician works with mechanical components and electrical equipment. Typical tasks are the laying of cables and connections and to connect them to one another. Further an industrial electrician sets up automated systems by programming and configuring them. In addition, the job profile includes reviewing the industrial facility by testing it and regular maintenance and repairs of the machines used in the production unit. The industrial electrician is responsible for the entire electrical system, it’s expansion and maintenance to ensure all work processes run smoothly.</p>
-        <img src="./images/mechatronic.jpg" height="650px" width="1250px">
+        <div class="row">
+        <div class="col-sm-6"><img src="./images/industrial_technician.jpg" height="350px" width="fit-content"></div>
+        <div class="col-sm-6"><p style="padding-bottom:10px;text-align: left;">An industrial electrician works with mechanical components and electrical equipment. Typical tasks are the laying of cables and connections and to connect them to one another. Further an industrial electrician sets up automated systems by programming and configuring them. In addition, the job profile includes reviewing the industrial facility by testing it and regular maintenance and repairs of the machines used in the production unit. The industrial electrician is responsible for the entire electrical system, it’s expansion and maintenance to ensure all work processes run smoothly.</p></div>
+        </div>
         <h3 style="text-align: left;">Mechatronics technician in Food Production</h3>
-        <p style="padding-bottom:10px;text-align: left;">A mechatronics technician is measuring angles or voltage in electrical circuits and is comparing the results obtained in the work process with previous data. Further tasks are maintaining and repairing machines as systems and machines have to be checked at regular intervals in order to guarantee safe and reliable functionality in the long term. In addition, the mechatronics technician assembles and disassembles machine parts meaning he puts machines and systems together or takes them apart. Lastly, the job profile contains the setting up of electrical circuits.</p>
-        <p style="padding-bottom:10px;text-align: left;">The duration of the vocational dual degree training programs related to food production is also 3 years and the stipends are 950 € per month in the first year, 1050 € in the second year and 1150 € in the third year of training. After the successful graduation from the program each participant is guaranteed placement with the training partner.</p>
- <!-- <h3 class="wow fadeInDown animated" style="padding-top: 20px;padding-bottom: 20px;">Higher Education</h3> -->
+        <div class="row">
+        <div class="col-sm-6"><p style="padding-bottom:10px;text-align: left;">A mechatronics technician is measuring angles or voltage in electrical circuits and is comparing the results obtained in the work process with previous data. Further tasks are maintaining and repairing machines as systems and machines have to be checked at regular intervals in order to guarantee safe and reliable functionality in the long term. In addition, the mechatronics technician assembles and disassembles machine parts meaning he puts machines and systems together or takes them apart. Lastly, the job profile contains the setting up of electrical circuits.</p>
+        <p style="padding-bottom:10px;text-align: left;">The duration of the vocational dual degree training programs related to food production is also 3 years and the stipends are 950 € per month in the first year, 1050 € in the second year and 1150 € in the third year of training. After the successful graduation from the program each participant is guaranteed placement with the training partner.</p></div>
+        <div class="col-sm-6"><img src="./images/mechatronic.jpg" height="350px" width="fit-content"></div>
+      </div>
+        <!-- <h3 class="wow fadeInDown animated" style="padding-top: 20px;padding-bottom: 20px;">Higher Education</h3> -->
     <!-- <div class="row">
       <div class="col-md-6 col-sm-6 services text-center"> <span class="icon icon-strategy"></span>
         <div class="services-content">
