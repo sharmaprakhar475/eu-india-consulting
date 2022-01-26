@@ -39,6 +39,7 @@ include "./header.php";
 <!-- intro section --> 
 <!-- services section -->
 <section id="services" class="services service-section">
+<img src="./images/construction.jpg" height="800px" width="1470px">
   <div class="container">
   <div class="section-header">
     <h2 class="wow fadeInDown animated" style="padding-bottom: 10px;">Construction/Craftsmanship</h2>

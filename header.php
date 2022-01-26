@@ -16,26 +16,26 @@
       <a href="#" class="nav-toggle">Menu<span></span></a> </div>
   </header>
   <!-- banner text --> 
-    <div class="banner" id="banner"> 
+    <!-- <div class="banner" id="banner">  -->
 	<div class="slider-banner">
-            <div data-lazy-background="images/slides/1.jpg" > 
-                <h3 data-pos="['68%', '-40%', '58%', '42%']" data-duration="700" data-effect="move">
+            <div data-lazy-background="images/slides/3.jpg"  > 
+                <!-- <h3 data-pos="['68%', '-40%', '58%', '42%']" data-duration="700" data-effect="move">
                     Success
                 </h3> <br>
                 <p data-pos="['75%', '110%', '75%', '36%']" data-duration="700" data-effect="move">
                     Lorem ipsum dolor sitamet consectetur adipiscing
-                </p> 
+                </p>  -->
             </div>
-            <div data-lazy-background="images/slides/2.jpg"> 
+            <!-- <div data-lazy-background="images/slides/2.jpg"> 
                 <h3 data-pos="['75%', '-40%', '58%', '42%']" data-duration="700" data-effect="move">
                     Ultimate
                 </h3> <br>
                 <p data-pos="['75%', '110%', '75%', '36%']" data-duration="700" data-effect="move">
                     Lorem ipsum dolor sitamet consectetur adipiscing 
                 </p>
-            </div>
+            </div> -->
              
-        </div>
+         </div>
       <!-- banner text --> 
-    </div> 
+    <!-- </div> -->
 </section>
