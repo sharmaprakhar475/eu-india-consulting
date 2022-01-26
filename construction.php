@@ -41,11 +41,12 @@ include "./header.php";
 <section id="services" class="services service-section">
   <div class="container">
   <div class="section-header">
-    <h2 class="wow fadeInDown animated" style="padding-bottom: 10px;">Construction/Craftsmanship</h2>
-    <div class="row">
+    
+    <div class="row vertical-center">
       <div class="col-sm-6">
     <img src="./images/construction.jpg" height="350px" width="fit-content"></div>
-    <div class="col-sm-6">
+    <div class="col-sm-6 ">
+    <h2 class="wow fadeInDown animated" style="padding-bottom: 10px;">Construction/Craftsmanship</h2>
     <p style="padding-bottom:10px;text-align: left;">In the area of construction, we offer vocational/ dual degree programs in the Federal State of North-Rhine Westphalia and Berlin/ Brandenburg. The objective is to create opportunities to join our vocational training programs while being sponsored by a construction company as the practical training partner related to the following positions: concrete and reinforced concrete constructor; insulator for heat, cold, noise and fire protection; road constructor (builder); pipe constructor, drainage/canal constructor; mason and carpenter.</p>
     <p style="text-align: left;padding-bottom:10px">The duration of the apprenticeship is 3 years whereby the candidate is taught at a specialized institute and receives practical training. The companies are often interested for the students to further qualify with Masters in Craftsmanship after having gained some work experience in order to take on leading roles/positions at the construction side.</p>
     <p style="text-align: left;">The duration of the dual degree course is 3 years and all students will receive a monthly stipend (training salary), paid by the practical training partner (company) which amounts to 800-890 € in the first year, 1000-1200 € in the second year and 1200-1400 € in the third year. After the successful graduation from the program each participant is guaranteed placement with the training partner or another construction company in Germany.</p>

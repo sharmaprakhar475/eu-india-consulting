@@ -168,7 +168,7 @@ include "./header.php";
 <!-- package section --> 
 
 <!-- gallery section -->
-<section id="gallery" class="gallery section">
+<!-- <section id="gallery" class="gallery section">
   <div class="container-fluid">
     <div class="section-header">
                 <h2 class="wow fadeInDown animated">Gallery</h2>
@@ -181,7 +181,6 @@ include "./header.php";
              <p><span class="icon icon-magnifying-glass"></span></p>
           </div>
         </div>
-        <!-- overlay --> 
         </a> </div>
       <div class="col-lg-3 col-md-6 col-sm-6 work"> <a href="images/portfolio/02.jpg" class="work-box"> <img src="images/portfolio/02.jpg" alt="">
         <div class="overlay">
@@ -189,7 +188,7 @@ include "./header.php";
             <p><span class="icon icon-magnifying-glass"></span></p>
           </div>
         </div>
-        <!-- overlay --> 
+       
         </a> </div>
       <div class="col-lg-3 col-md-6 col-sm-6 work"> <a href="images/portfolio/03.jpg" class="work-box"> <img src="images/portfolio/03.jpg" alt="">
         <div class="overlay">
@@ -197,7 +196,7 @@ include "./header.php";
             <p><span class="icon icon-magnifying-glass"></span></p>
           </div>
         </div>
-        <!-- overlay --> 
+        
         </a> </div>
       <div class="col-lg-3 col-md-6 col-sm-6 work"> <a href="images/portfolio/04.jpg" class="work-box"> <img src="images/portfolio/04.jpg" alt="">
         <div class="overlay">
@@ -205,7 +204,7 @@ include "./header.php";
             <p><span class="icon icon-magnifying-glass"></span></p>
           </div>
         </div>
-        <!-- overlay --> 
+         
         </a> </div>
       <div class="col-lg-3 col-md-6 col-sm-6 work"> <a href="images/portfolio/05.jpg" class="work-box"> <img src="images/portfolio/05.jpg" alt="">
         <div class="overlay">
@@ -213,7 +212,7 @@ include "./header.php";
             <p><span class="icon icon-magnifying-glass"></span></p>
           </div>
         </div>
-        <!-- overlay --> 
+         
         </a> </div>
       <div class="col-lg-3 col-md-6 col-sm-6 work"> <a href="images/portfolio/06.jpg" class="work-box"> <img src="images/portfolio/06.jpg" alt="">
         <div class="overlay">
@@ -221,7 +220,7 @@ include "./header.php";
             <p><span class="icon icon-magnifying-glass"></span></p>
           </div>
         </div>
-        <!-- overlay --> 
+       
         </a> </div>
       <div class="col-lg-3 col-md-6 col-sm-6 work"> <a href="images/portfolio/07.jpg" class="work-box"> <img src="images/portfolio/07.jpg" alt="">
         <div class="overlay">
@@ -229,7 +228,7 @@ include "./header.php";
             <p><span class="icon icon-magnifying-glass"></span></p>
           </div>
         </div>
-        <!-- overlay --> 
+        
         </a> </div>
       <div class="col-lg-3 col-md-6 col-sm-6 work"> <a href="images/portfolio/08.jpg" class="work-box"> <img src="images/portfolio/08.jpg" alt="">
         <div class="overlay">
@@ -237,11 +236,11 @@ include "./header.php";
              <p><span class="icon icon-magnifying-glass"></span></p>
           </div>
         </div>
-        <!-- overlay --> 
+        
         </a> </div>
     </div>
   </div>
-</section>
+</section> -->
 <!-- gallery section --> 
 <!-- our team section -->
 <!--

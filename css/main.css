@@ -956,5 +956,8 @@ footer.footer h2 {
 }
 .euindia-banner img{
 	width:100vw;
-
+}
+.vertical-center{
+	display: flex;
+    align-items: center;
 }

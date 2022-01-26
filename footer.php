@@ -8,8 +8,8 @@
       <li><a href="#banner">Home</a></li>
       <li><a href="#services">Programs</a></li>
       <li><a href="#content-3-10">About</a></li>
-      <li><a href="#gallery">Gallery</a></li>
-      <li><a href="#pricing5">Price</a></li>
+      <!-- <li><a href="#gallery">Gallery</a></li>
+      <li><a href="#pricing5">Price</a></li> -->
       <li><a href="#testimonials">Testimonials</a></li>
       <li><a href="#contact">Contact</a></li>
     </ul>
