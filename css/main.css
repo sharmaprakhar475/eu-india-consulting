@@ -783,7 +783,7 @@ ul.list-default li {
 	 Testimonials
 -------------------------------------------------------------------------------*/
 .testimonials {
-	background-color: #000053;
+	background-color: #FFC402;
 	position: relative;
 	text-align: center;
 }
@@ -793,13 +793,13 @@ ul.list-default li {
 	padding: 100px 15%;
 }
 .testimonials h1 {
-	color: #fff;
+	color: black;
 	font-size: 16px;
 	font-weight: 300;
 	line-height: 28px;
 }
 .testimonials p {
-	color: #fff;
+	color: black;
 	display: block;
 	font-size: 13px;
 	font-style: normal;

@@ -378,12 +378,12 @@ include "./header.php";
     </div>
 </section> -->
 <!-- Testimonials section -->
-<section id="testimonials" class="section testimonials no-padding">
+<section id="testimonials" class="section testimonials no-padding" >
   <div class="container-fluid">
-    <h2 class="container-fluid" style="color: white;font-size: 40px;padding-top:40px ;">Testimonials</h2>
-    <div class="row no-gutter">
+    <h2 class="container-fluid" style="color: black;font-size: 40px;padding-top:40px ;">Testimonials</h2>
+    <div class="row no-gutter" >
       <div class="flexslider">
-        <ul class="slides">
+        <ul class="slides" >
           <li>
             <div class="col-md-12">
               <blockquote>
