@@ -173,7 +173,7 @@ ul li {
 	display: inline-block;
 }
 .navigation a {
-	color: rgb(206, 206, 206);
+	color: white;
 	font-size: 14px;
 	font-weight: 700;
 	margin-left: 40px;
@@ -783,14 +783,14 @@ ul.list-default li {
 	 Testimonials
 -------------------------------------------------------------------------------*/
 .testimonials {
-	background-color: #FFC402;
+	background-color: white;
 	position: relative;
 	text-align: center;
 }
 .testimonials blockquote {
 	border: 0;
 	margin: 0;
-	padding: 100px 15%;
+	padding: 20px 15% 0px;
 }
 .testimonials h1 {
 	color: black;
@@ -809,7 +809,7 @@ ul.list-default li {
 	text-transform: uppercase;
 }
 .flex-control-nav {
-	margin-top: 2%;
+	margin-top: 8%;
 	bottom: none!important;
 	position: relative!important;
 	right: 0;

@@ -4,15 +4,35 @@ $filename_arr=explode(".",$filename);
 $page_type=$filename_arr[0];
 if($page_type=="index"){
 $banner_url="./images/slides/3.jpg";
+$home="#banner";
+$program="#services";
+$about="#content-3-10";
+$testimonial="#testimonials";
+$contact="#contact";
 }
 else if($page_type=="bachelor"){
   $banner_url="./images/ba.jpg";
+  $home="./#banner";
+$program="./#services";
+$about="./#content-3-10";
+$testimonial="./#testimonials";
+$contact="./#contact";
 }
 else if($page_type=="masters"){
   $banner_url="./images/ma.jpg";
+  $home="./#banner";
+$program="./#services";
+$about="./#content-3-10";
+$testimonial="./#testimonials";
+$contact="./#contact";
 }
 else{
   $banner_url="./images/slides/3.jpg";
+  $home="./#banner";
+$program="./#services";
+$about="./#content-3-10";
+$testimonial="./#testimonials";
+$contact="./#contact";
 }
 ?>
 <section class="banner" role="banner"  >
@@ -20,14 +40,14 @@ else{
     <div class="header-content clearfix" > <a class="logo" href="/"><img src="images/logo/logo.png" width="150px" style="padding-top:5px;"></a>
       <nav class="navigation" role="navigation">
         <ul class="primary-nav" style="padding-top:15px;padding-bottom:0px;">
-		      <li><a href="#banner">Home</a></li>
-          <li><a href="#services">Programs</a></li>
-          <li><a href="#content-3-10">About</a></li> 
+		      <li><a href="<?php echo $home; ?>">Home</a></li>
+          <li><a href="<?php echo $program; ?>">Programs</a></li>
+          <li><a href="<?php echo $about; ?>">About</a></li> 
           <!-- <li><a href="#gallery">Gallery</a></li> -->
          <!-- <li><a href="#teams">Our Team</a></li>-->
           <!-- <li><a href="#pricing5">Price</a></li> -->
-          <li><a href="#testimonials">Testimonials</a></li>
-          <li><a href="#contact">Contact</a></li>
+          <li><a href="<?php echo $testimonial; ?>">Testimonials</a></li>
+          <li><a href="<?php echo $contact; ?>">Contact</a></li>
         </ul>
       </nav>
       <a href="#" class="nav-toggle">Menu<span></span></a> </div>
