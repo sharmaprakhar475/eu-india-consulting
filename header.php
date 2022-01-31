@@ -2,6 +2,7 @@
 $filename=basename($_SERVER['SCRIPT_NAME']);
 $filename_arr=explode(".",$filename);
 $page_type=$filename_arr[0];
+
 if($page_type=="index"){
 $banner_url="./images/slides/3.jpg";
 $home="#banner";
@@ -37,7 +38,7 @@ $contact="./#contact";
 ?>
 <section class="banner" role="banner"  >
   <header id="header">
-    <div class="header-content clearfix" > <a class="logo" href="/"><img src="images/logo/logo.png" width="150px" style="padding-top:5px;"></a>
+    <div class="header-content clearfix" > <a class="logo" href="/" ><img src="images/logo/logo.png" width="150px" style="padding-top:5px;"></a>
       <nav class="navigation" role="navigation">
         <ul class="primary-nav" style="padding-top:15px;padding-bottom:0px;">
 		      <li><a href="<?php echo $home; ?>">Home</a></li>
