@@ -1,7 +1,7 @@
 <footer class="footer">
 <div class="container-fluid">
 <div id="map-row" class="row">
-  <div class="col-md-4" style=" padding-top:90px; padding-left:180px;"><img src="images/logo/logo.png" width="300px" ></div>
+  <div class="col-md-4" style=" padding-top:90px; padding-left:180px;"><img src="images/logo/logo-white-medium.png" width="300px" ></div>
   <div class="col-md-4" style=" text-align:center;padding-left:10px;">
     <h2>Links</h2>
     <ul>
@@ -23,8 +23,8 @@
     			Phone: +33 (0) 6 86 71 95 94<br>
           Email: eu.indiaconsulting@gmail.com
     		</address>
-			  © 2021 EU-India Consulting. 
 	 </div>
 	 </div>
+   <p ><center style="font-size: 16px;color: #fff">© 2021 EU-India Consulting. </center></p>
 </div>
 </footer>

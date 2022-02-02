@@ -5,20 +5,18 @@
 <!--[if gt IE 8]><!-->
 <html class="no-js" lang="">
 <!--<![endif]-->
-
+<style>
+.section-header img{
+  margin: 10px 0;
+}
+li{
+  font-size: 18px;
+}
+</style>
 <head>
-<meta charset="utf-8">
-<meta name="description" content="">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Enroll - Corporate Bootstrap Template | WebThemez</title>
-<link rel="stylesheet" href="css/bootstrap.min.css">
-<link rel="stylesheet" href="css/flexslider.css">
-<link rel="stylesheet" href="css/jquery.fancybox.css">
-<link rel="stylesheet" href="css/main.css">
-<link rel="stylesheet" href="css/responsive.css">
-<link rel="stylesheet" href="css/font-icon.css">
-<link rel="stylesheet" href="css/animate.min.css"> 
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css"> 
+<?php 
+include "./head.php";
+?>
 </head>
 
 <body>
@@ -41,7 +39,7 @@ include "./header.php";
 <section id="services" class="services service-section">
   <div class="container">
   <div class="section-header">
-    <h2 class="wow fadeInDown animated" style="padding-bottom: 10px;">Food Production and Technical Support in Food Production</h2>
+    <h2 style="padding-bottom: 10px;">Food Production and Technical Support in Food Production</h2>
         <h3 style="text-align: left;">Dual Degree in Food Technology</h3>
         <p style="padding-bottom:10px;text-align: left;">Food technicians check food with regard to its composition, ingredients and their purity or pollutant content. The food is examined using biological and chemical examination methods and reports are drawn up on this basis. The aim is to develop new products and production processes. Food technicians require a good chemical and technical understanding, a systematic way of working as well as communication and problem-solving skills.</p>
         <p style="text-align: left;">The typical tasks of a food technician:</p>
@@ -54,18 +52,27 @@ include "./header.php";
         </ol>
         
         <div class="row vertical-center">
-        <div class="col-sm-6"><img src="./images/industrial_technician.jpg" height="350px" width="fit-content"></div>
-        <div class="col-sm-6">
+          <div class="col-sm-12">
+            <img style="width:100%;" src="./images/industrial_technician.jpg" >
+          </div>
+        </div>
+        <div class="row vertical-center">
+        <div class="col-sm-12">
         <h3 style="text-align: left;">Industrial Electrician in Food Production</h3>
         <p style="padding-bottom:10px;text-align: left;">An industrial electrician works with mechanical components and electrical equipment. Typical tasks are the laying of cables and connections and to connect them to one another. Further an industrial electrician sets up automated systems by programming and configuring them. In addition, the job profile includes reviewing the industrial facility by testing it and regular maintenance and repairs of the machines used in the production unit. The industrial electrician is responsible for the entire electrical system, it’s expansion and maintenance to ensure all work processes run smoothly.</p></div>
         </div>
         
-        <div class="row vertical-center">
-        <div class="col-sm-6 ">
         <h3 style="text-align: left;">Mechatronics technician in Food Production</h3>
+        <div class="row vertical-center">
+          <div class="col-sm-12">
+            <img style="width:100%;" src="./images/mechatronic.jpg" >
+          </div>
+        </div>
+        <div class="row vertical-center">
+        <div class="col-sm-12 ">
         <p style="padding-bottom:10px;text-align: left;">A mechatronics technician is measuring angles or voltage in electrical circuits and is comparing the results obtained in the work process with previous data. Further tasks are maintaining and repairing machines as systems and machines have to be checked at regular intervals in order to guarantee safe and reliable functionality in the long term. In addition, the mechatronics technician assembles and disassembles machine parts meaning he puts machines and systems together or takes them apart. Lastly, the job profile contains the setting up of electrical circuits.</p>
         <p style="padding-bottom:10px;text-align: left;">The duration of the vocational dual degree training programs related to food production is also 3 years and the stipends are 950 € per month in the first year, 1050 € in the second year and 1150 € in the third year of training. After the successful graduation from the program each participant is guaranteed placement with the training partner.</p></div>
-        <div class="col-sm-6"><img src="./images/mechatronic.jpg" height="350px" width="fit-content"></div>
+        
       </div>
         <!-- <h3 class="wow fadeInDown animated" style="padding-top: 20px;padding-bottom: 20px;">Higher Education</h3> -->
     <!-- <div class="row">

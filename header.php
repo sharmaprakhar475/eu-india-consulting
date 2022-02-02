@@ -4,43 +4,64 @@ $filename_arr=explode(".",$filename);
 $page_type=$filename_arr[0];
 
 if($page_type=="index"){
-$banner_url="./images/slides/3.jpg";
-$home="#banner";
-$program="#services";
-$about="#content-3-10";
-$testimonial="#testimonials";
-$contact="#contact";
+    $banner_url="./images/slides/3.jpg";
+    $home="#banner";
+    $program="#services";
+    $about="#content-3-10";
+    $testimonial="#testimonials";
+    $contact="#contact";
 }
 else if($page_type=="bachelor"){
-  $banner_url="./images/ba.jpg";
-  $home="./#banner";
-$program="./#services";
-$about="./#content-3-10";
-$testimonial="./#testimonials";
-$contact="./#contact";
+    $banner_url="./images/ba.jpg";
+    $home="./#banner";
+    $program="./#services";
+    $about="./#content-3-10";
+    $testimonial="./#testimonials";
+    $contact="./#contact";
 }
 else if($page_type=="masters"){
-  $banner_url="./images/ma.jpg";
-  $home="./#banner";
-$program="./#services";
-$about="./#content-3-10";
-$testimonial="./#testimonials";
-$contact="./#contact";
+    $banner_url="./images/ma.jpg";
+    $home="./#banner";
+    $program="./#services";
+    $about="./#content-3-10";
+    $testimonial="./#testimonials";
+    $contact="./#contact";
+}else if($page_type=="construction"){
+    $banner_url="./images/construction.jpg";
+    $home="./#banner";
+    $program="./#services";
+    $about="./#content-3-10";
+    $testimonial="./#testimonials";
+    $contact="./#contact";
+}else if($page_type=="nursing"){
+    $banner_url="./images/nursing.jpg";
+    $home="./#banner";
+    $program="./#services";
+    $about="./#content-3-10";
+    $testimonial="./#testimonials";
+    $contact="./#contact";
+}else if($page_type=="hospitality"){
+    $banner_url="./images/food_technician.jpg";
+    $home="./#banner";
+    $program="./#services";
+    $about="./#content-3-10";
+    $testimonial="./#testimonials";
+    $contact="./#contact";
 }
 else{
-  $banner_url="./images/slides/3.jpg";
-  $home="./#banner";
-$program="./#services";
-$about="./#content-3-10";
-$testimonial="./#testimonials";
-$contact="./#contact";
+    $banner_url="./images/slides/3.jpg";
+    $home="./#banner";
+    $program="./#services";
+    $about="./#content-3-10";
+    $testimonial="./#testimonials";
+    $contact="./#contact";
 }
 ?>
 <section class="banner" role="banner"  >
   <header id="header">
-    <div class="header-content clearfix" > <a class="logo" href="/" ><img src="images/logo/logo.png" width="150px" style="padding-top:5px;"></a>
+    <div class="header-content clearfix" > <a class="logo" href="/" ><img width="150px" src="images/logo/logo-small.png"></a>
       <nav class="navigation" role="navigation">
-        <ul class="primary-nav" style="padding-top:15px;padding-bottom:0px;">
+        <ul class="primary-nav" style="padding-top:20px;padding-bottom:0px;">
 		      <li><a href="<?php echo $home; ?>">Home</a></li>
           <li><a href="<?php echo $program; ?>">Programs</a></li>
           <li><a href="<?php echo $about; ?>">About</a></li> 
