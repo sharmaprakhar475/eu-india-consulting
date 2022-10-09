@@ -53,7 +53,7 @@ include "./header.php";
     <!-- <h3 class="wow fadeInDown animated" style="padding-top: 20px;padding-bottom: 20px;">Vocational/Dual Degree Programs</h3> -->
     <div class="row">
       <div class="col-md-4 col-sm-4 services text-center"> 
-        <div class="services-content pl-0" style="text-align: left;"> 
+        <div class="services-content services-content-detail pl-0" style="text-align: left;"> 
           <h5>IT</h5>
           <ol>
                 <li class="pb-0">SURVEYING AND GEOINFORMATICS</li>
@@ -64,7 +64,7 @@ include "./header.php";
         </div>
       </div>
       <div class="col-md-4 col-sm-4 services text-center"> 
-        <div class="services-content pl-0" style="text-align: left;">
+        <div class="services-content services-content-detail pl-0" style="text-align: left;">
           <h5>COMMERCE/ ECONOMICS PROGRAMS</h5>
           <ol> 
                     <li class="pb-0">COMMERCE (BA in Business Studies)</li>
@@ -75,7 +75,7 @@ include "./header.php";
         </div>
       </div>
       <div class="col-md-4 col-sm-4 services text-center">
-        <div class="services-content pl-0" style="text-align: left;" >
+        <div class="services-content services-content-detail pl-0" style="text-align: left;" >
           <h5>ARCHITECTURE/DESIGN</h5>
             <ol>
                     <li class="pb-0">ARCHITECTURE</li>
@@ -87,7 +87,7 @@ include "./header.php";
 </div >
 <div class="row">
       <div class="col-md-4 col-sm-4 services text-center"> 
-        <div class="services-content pl-0" style="text-align: left;">
+        <div class="services-content services-content-detail pl-0" style="text-align: left;">
           <h5>FOOD SCIENCE</h5>
           <ol>
                     <li class="pb-0">AGRICULTURE</li>
@@ -98,7 +98,7 @@ include "./header.php";
         </div>
       </div>
       <div class="col-md-4 col-sm-4 services text-center">
-        <div class="services-content pl-0" style="text-align: left;">
+        <div class="services-content services-content-detail pl-0" style="text-align: left;">
           <h5>ENGINEERING</h5>
           <ol>
                     <li class="pb-0">ELECTRICAL AND COMPUTER ENGINEERING</li>

@@ -17,18 +17,7 @@ include "./head.php";
 <?php 
 include "./header.php";
 ?>
-<!-- header section --> 
-<!-- intro section -->
-<!-- <section id="intro" class="section intro">
-  <div class="container">
-    <div class="col-md-8 col-md-offset-2 text-center">
-      <h3>Looking to grow your business?</h3>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis eu libero scelerisque ligula sagittis faucibus eget quis lacus.Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-    </div>
-  </div>
-</section> -->
-<!-- intro section --> 
-<!-- services section -->
+
 <section id="services" class="services service-section">
   <div class="container">
   <div class="">
@@ -43,7 +32,7 @@ include "./header.php";
       </div>
       <div class="col-md-6 col-sm-6 services text-center"> <span class="icon"><img src="images/icon/degree.png"></span>
         <div class="services-content">
-          <h5>Masters Programs</h5>
+          <h5>Master Programs</h5>
           <p>We are offering Master Programs in German as the medium of instruction whereby we support...<a href="./masters.php"> read more</a></p>
         </div>
       </div>
@@ -95,245 +84,12 @@ include "./header.php";
           <p>Along with our trusted partners in India, we market the programs, inform and select the students, support the participants in learning the German language and help them settle in Germany.</p>
           <p>In case you would like to learn more about our programs, don't hesitate to get in touch with us!</p>
         </div>
-				<!--<a href="#gallery" class="btn btn-outline btn-outline outline-dark">Our Gallery</a>-->
+				
 			</div>
 		</div><!-- /.row-->
 	</div><!-- /.container -->
 </section>
 
-
-<!-- package section -->
-<!-- <section class="video-section">
-  <div class="container"> 
-    <div class="row">  
-            <div id="content24" data-section="content-24" class="data-section"> 
-    		<div class="col-md-6">
-				<h3 class="eidtContent">Content Video</h3>
-				<p class="eidtContent">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-   				<p class="editContent">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
-				<p class="editContent">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
-    		</div>
-			<div class="col-md-6">
-				<div class="embed-responsive embed-responsive-16by9">
-				  <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/146742515?badge=0" allowfullscreen=""></iframe>
-				</div>
-			</div> 
-    	</div> -->
-			<!-- </div>end row     -->
-  <!-- </div>
-</section> -->
-<!-- package section --> 
-
-<!-- gallery section -->
-<!-- <section id="gallery" class="gallery section">
-  <div class="container-fluid">
-    <div class="section-header">
-                <h2 class="wow fadeInDown animated">Gallery</h2>
-                <p class="wow fadeInDown animated">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eget risus vitae massa <br> semper aliquam quis mattis quam.</p>
-            </div>
-    <div class="row no-gutter">
-      <div class="col-lg-3 col-md-6 col-sm-6 work"> <a href="images/portfolio/01.jpg" class="work-box"> <img src="images/portfolio/01.jpg" alt="">
-        <div class="overlay">
-          <div class="overlay-caption">
-             <p><span class="icon icon-magnifying-glass"></span></p>
-          </div>
-        </div>
-        </a> </div>
-      <div class="col-lg-3 col-md-6 col-sm-6 work"> <a href="images/portfolio/02.jpg" class="work-box"> <img src="images/portfolio/02.jpg" alt="">
-        <div class="overlay">
-          <div class="overlay-caption">
-            <p><span class="icon icon-magnifying-glass"></span></p>
-          </div>
-        </div>
-       
-        </a> </div>
-      <div class="col-lg-3 col-md-6 col-sm-6 work"> <a href="images/portfolio/03.jpg" class="work-box"> <img src="images/portfolio/03.jpg" alt="">
-        <div class="overlay">
-          <div class="overlay-caption">
-            <p><span class="icon icon-magnifying-glass"></span></p>
-          </div>
-        </div>
-        
-        </a> </div>
-      <div class="col-lg-3 col-md-6 col-sm-6 work"> <a href="images/portfolio/04.jpg" class="work-box"> <img src="images/portfolio/04.jpg" alt="">
-        <div class="overlay">
-          <div class="overlay-caption"> 
-            <p><span class="icon icon-magnifying-glass"></span></p>
-          </div>
-        </div>
-         
-        </a> </div>
-      <div class="col-lg-3 col-md-6 col-sm-6 work"> <a href="images/portfolio/05.jpg" class="work-box"> <img src="images/portfolio/05.jpg" alt="">
-        <div class="overlay">
-          <div class="overlay-caption">
-            <p><span class="icon icon-magnifying-glass"></span></p>
-          </div>
-        </div>
-         
-        </a> </div>
-      <div class="col-lg-3 col-md-6 col-sm-6 work"> <a href="images/portfolio/06.jpg" class="work-box"> <img src="images/portfolio/06.jpg" alt="">
-        <div class="overlay">
-          <div class="overlay-caption">
-            <p><span class="icon icon-magnifying-glass"></span></p>
-          </div>
-        </div>
-       
-        </a> </div>
-      <div class="col-lg-3 col-md-6 col-sm-6 work"> <a href="images/portfolio/07.jpg" class="work-box"> <img src="images/portfolio/07.jpg" alt="">
-        <div class="overlay">
-          <div class="overlay-caption">
-            <p><span class="icon icon-magnifying-glass"></span></p>
-          </div>
-        </div>
-        
-        </a> </div>
-      <div class="col-lg-3 col-md-6 col-sm-6 work"> <a href="images/portfolio/08.jpg" class="work-box"> <img src="images/portfolio/08.jpg" alt="">
-        <div class="overlay">
-          <div class="overlay-caption">
-             <p><span class="icon icon-magnifying-glass"></span></p>
-          </div>
-        </div>
-        
-        </a> </div>
-    </div>
-  </div>
-</section> -->
-<!-- gallery section --> 
-<!-- our team section -->
-<!--
-<section id="teams" class="section teams">
-  <div class="container">
-      <div class="section-header">
-                <h2 class="wow fadeInDown animated">Our Team</h2>
-                <p class="wow fadeInDown animated">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eget risus vitae massa <br> semper aliquam quis mattis quam.</p>
-            </div>
-    <div class="row">
-      <div class="col-md-3 col-sm-6">
-        <div class="person"><img src="images/team-1.jpg" alt="" class="img-responsive">
-          <div class="person-content">
-            <h4>Jonh Dow</h4>
-            <h5 class="role">Founder</h5>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit eget risus vitae massa.</p>
-          </div>
-          <ul class="social-icons clearfix">
-            <li><a href="#"><span class="fa fa-facebook"></span></a></li>
-            <li><a href="#"><span class="fa fa-twitter"></span></a></li> 
-            <li><a href="#"><span class="fa fa-google-plus"></span></a></li> 
-          </ul>
-        </div>
-      </div>
-      <div class="col-md-3 col-sm-6">
-        <div class="person"> <img src="images/team-2.jpg" alt="" class="img-responsive">
-          <div class="person-content">
-            <h4>Markus Linn</h4>
-            <h5 class="role">Creative</h5>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit eget risus vitae massa.</p>
-          </div>
-          <ul class="social-icons clearfix">
-            <li><a href="#" class=""><span class="fa fa-facebook"></span></a></li>
-            <li><a href="#" class=""><span class="fa fa-twitter"></span></a></li> 
-            <li><a href="#" class=""><span class="fa fa-google-plus"></span></a></li> 
-          </ul>
-        </div>
-      </div>
-      <div class="col-md-3 col-sm-6">
-        <div class="person"> <img src="images/team-3.jpg" alt="" class="img-responsive">
-          <div class="person-content">
-            <h4>Chris Jemes</h4>
-            <h5 class="role">Technical</h5>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit eget risus vitae massa.</p>
-          </div>
-          <ul class="social-icons clearfix">
-            <li><a href="#" class=""><span class="fa fa-facebook"></span></a></li>
-            <li><a href="#" class=""><span class="fa fa-twitter"></span></a></li> 
-            <li><a href="#" class=""><span class="fa fa-google-plus"></span></a></li> 
-          </ul>
-        </div>
-      </div>
-      <div class="col-md-3 col-sm-6">
-        <div class="person"> <img src="images/team-4.jpg" alt="" class="img-responsive">
-          <div class="person-content">
-            <h4>Vintes Mars</h4>
-            <h5 class="role">Marketing</h5>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit eget risus vitae massa.</p>
-          </div>
-          <ul class="social-icons clearfix">
-            <li><a href="#" class=""><span class="fa fa-facebook"></span></a></li>
-            <li><a href="#" class=""><span class="fa fa-twitter"></span></a></li> 
-            <li><a href="#" class=""><span class="fa fa-google-plus"></span></a></li> 
-          </ul>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
--->
-<!-- our team section --> 
-<!-- <section id="pricing5" data-section="pricing-5" class="data-section">
-    <div class="container">
-          <div class="section-header">
-                <h2 class="wow fadeInDown animated">Pricing</h2>
-                <p class="wow fadeInDown animated">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eget risus vitae massa <br> semper aliquam quis mattis quam.</p>
-            </div>
-         <div class="row">
-            <div class="col-md-3 col-md-offset-1">
-                <div class="table">
-                    <h3 class="editContent">Basic</h3>
-                    <h2 class="editContent">$13</h2>
-                    <p class="editContent">Per Month</p>
-                    <ul class="table-content">
-                        <li class="editContent"><i class="fa fa-hdd-o"></i> 10 GB Storage</li>
-                        <li class="editContent"><i class="fa fa-pie-chart"></i> 500 GB Bandwidth</li>
-                        <li class="editContent"><i class="fa fa-envelope-o"></i> Email Support</li>
-                        <li class="editContent"><i class="fa fa-cogs"></i> 24x7 Support</li>
-                    </ul>
-
-                    <div class="text-center text-uppercase">
-                        <a href="#" class="btn btn-default-green-transparent-tiny editContent">Signup Now</a>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-md-4">
-                <div class="table long-table">
-                    <h3 class="editContent">Premium</h3>
-                    <h2 class="editContent">$23</h2>
-                    <p class="editContent">Per Month</p>
-                    <ul class="table-content">
-                        <li class="editContent"><i class="fa fa-hdd-o"></i> 10 GB Storage</li>
-                        <li class="editContent"><i class="fa fa-pie-chart"></i> 500 GB Bandwidth</li>
-                        <li class="editContent"><i class="fa fa-envelope-o"></i> Email Support</li>
-                        <li class="editContent"><i class="fa fa-cogs"></i> 24x7 Support</li>
-                    </ul>
-
-                    <div class="text-center text-uppercase">
-                        <a href="#" class="btn btn-default-blue-tiny editContent">Signup Now</a>
-                    </div>
-                </div>
-
-            </div>
-
-            <div class="col-md-3">
-                <div class="table">
-                    <h3 class="editContent">Developer</h3>
-                    <h2 class="editContent">$33</h2>
-                    <p class="editContent">Per Month</p>
-                    <ul class="table-content">
-                        <li class="editContent"><i class="fa fa-hdd-o"></i> 10 GB Storage</li>
-                        <li class="editContent"><i class="fa fa-pie-chart"></i> 500 GB Bandwidth</li>
-                        <li class="editContent"><i class="fa fa-envelope-o"></i> Email Support</li>
-                        <li class="editContent"><i class="fa fa-cogs"></i> 24x7 Support</li>
-                    </ul>
-
-                    <div class="text-center text-uppercase">
-                        <a href="#" class="btn btn-default-green-transparent-tiny editContent">Signup Now</a>
-                    </div>
-                </div>
-
-            </div>
-         </div>
-    </div>
-</section> -->
 <!-- Testimonials section -->
 <section id="testimonials" class="testimonials services service-section" >
   <div class="container-fluid">
@@ -374,14 +130,14 @@ include "./header.php";
                 <h2 class="wow fadeInDown animated">Contact Us</h2>
                 <p class="wow fadeInDown animated"> <br> </p>
             </div>
-    <div class="row">
-      <div class="col-md-8 col-md-offset-2 conForm">       
+    <div class="row justify-content-center">
+      <div class="col-md-8 conForm">       
         <div id="message"></div>
         <form method="post" action="php/contact.php" name="cform" id="cform">
           <input name="name" id="name" type="text" class="col-xs-12 col-sm-12 col-md-12 col-lg-12" placeholder="Your name..." >
           <input name="email" id="email" type="email" class=" col-xs-12 col-sm-12 col-md-12 col-lg-12 noMarr" placeholder="Email Address..." >
           <textarea name="comments" id="comments" cols="" rows="" class="col-xs-12 col-sm-12 col-md-12 col-lg-12" placeholder="Message..."></textarea>
-          <input type="submit" id="submit" name="send" class="submitBnt" value="Send">
+          <button type="button" id="contact-btn" class="submitBnt">Send</button>
           <div id="simple-msg"></div>
         </form>
       </div>
@@ -404,13 +160,31 @@ include "./footer.php";
 <script type="text/javascript" src="js/jquery.contact.js"></script> 
 <script type="text/javascript" src="js/jquery.devrama.slider.min-0.9.4.js"></script>
 <script type="text/javascript">
-		$(document).ready(function(){
-			$('.slider-banner').DrSlider({
-				'transition': 'fade',
-				showNavigation: false,
-				progressColor: "#9e015e"
-			});
-		});
-	</script> 
+$('#contact-btn').on('click', function(){
+  const data = {
+    name : document.getElementById("name").value,
+    email : document.getElementById("email").value,
+    message : document.getElementById("comments").value,
+  }
+
+  const notyf = new Notyf({
+    position: {
+      x: 'center',
+      y: 'top',
+    },
+  });
+  axios.post('api/contact.php', {form_type : "contactUs", data}).then(res => {
+    notyf.success('Thank you! We will get back to you soon.');
+  })
+})
+
+$(document).ready(function(){
+	$('.slider-banner').DrSlider({
+		'transition': 'fade',
+		showNavigation: false,
+		progressColor: "#9e015e"
+	});
+});
+</script> 
 </body>
 </html>

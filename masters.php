@@ -33,7 +33,7 @@ include "./header.php";
 
   <div class="container">
   <div class="section-header">
-    <h2 class="wow fadeInDown animated" style="padding-bottom: 10px;">Masters Program</h2>
+    <h2 class="wow fadeInDown animated" style="padding-bottom: 10px;">Master Programs</h2>
     <!-- <div class="row vertical-center">
       <div class="col-sm-6"> -->
     <p style="padding-bottom: 30px;text-align: left;">We are offering Master Programs in German as the medium of instruction whereby we support the students with the admission process to the MA program as well as to the DSH-Preparation.</p>
@@ -60,7 +60,7 @@ include "./header.php";
     <!-- <h3 class="wow fadeInDown animated" style="padding-top: 20px;padding-bottom: 20px;">Vocational/Dual Degree Programs</h3> -->
     <div class="row" style="padding-top:30px;">
       <div class="col-md-4 col-sm-4 services text-center"> 
-        <div class="services-content pl-0" style="text-align: left;"> 
+        <div class="services-content services-content-detail pl-0" style="text-align: left;"> 
           <h5>APPLIED BIOSCIENCES</h5>
           <ol>
                 <li class="pb-0">BIOTECHNOLOGY</li>
@@ -69,7 +69,7 @@ include "./header.php";
         </div>
       </div>
       <div class="col-md-4 col-sm-4 services text-center"> 
-        <div class="services-content pl-0" style="text-align: left;">
+        <div class="services-content services-content-detail pl-0" style="text-align: left;">
           <h5>IT</h5>
           <ol> 
                     <li class="pb-0">SURVEYING AND GEOINFORMATICS</li>
@@ -81,7 +81,7 @@ include "./header.php";
         </div>
       </div>
       <div class="col-md-4 col-sm-4 services text-center">
-        <div class="services-content pl-0" style="text-align: left;" >
+        <div class="services-content services-content-detail pl-0" style="text-align: left;" >
           <h5>ARCHITECTURE/DESIGN</h5>
             <ol>
                     <li class="pb-0">ARCHITECTURE</li>
@@ -94,7 +94,7 @@ include "./header.php";
 </div >
 <div class="row">
       <div class="col-md-4 col-sm-4 services text-center"> 
-        <div class="services-content pl-0" style="text-align: left;">
+        <div class="services-content services-content-detail pl-0" style="text-align: left;">
           <h5>FOOD/ECO/AGRI SCIENCE</h5>
           <ol>
                     <li class="pb-0">FOOD AND AGRIBUSINESS</li>
@@ -105,7 +105,7 @@ include "./header.php";
         </div>
       </div>
       <div class="col-md-4 col-sm-4 services text-center"> 
-        <div class="services-content pl-0" style="text-align: left;">
+        <div class="services-content services-content-detail pl-0" style="text-align: left;">
           <h5>COMMERCE/ ECONOMICS PROGRAMS</h5>
           <ol>
                     <li class="pb-0">COMMERCE (BA in Business Studies)</li>
@@ -116,7 +116,7 @@ include "./header.php";
         </div>
       </div>
       <div class="col-md-4 col-sm-4 services text-center">
-        <div class="services-content pl-0" style="text-align: left;">
+        <div class="services-content services-content-detail pl-0" style="text-align: left;">
           <h5>ENGINEERING</h5>
           <ol>
                     <li class="pb-0">ELECTRICAL AND COMPUTER ENGINEERING</li>

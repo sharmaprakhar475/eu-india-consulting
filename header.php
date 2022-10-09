@@ -40,8 +40,15 @@ else if($page_type=="masters"){
     $about="./#content-3-10";
     $testimonial="./#testimonials";
     $contact="./#contact";
-}else if($page_type=="hospitality"){
+}else if($page_type=="food_production"){
     $banner_url="./images/food_technician.jpg";
+    $home="./#banner";
+    $program="./#services";
+    $about="./#content-3-10";
+    $testimonial="./#testimonials";
+    $contact="./#contact";
+}else if($page_type=="hospitality"){
+    $banner_url="./images/hospitality.jpg";
     $home="./#banner";
     $program="./#services";
     $about="./#content-3-10";
@@ -74,9 +81,21 @@ else{
       </nav>
       <a href="#" class="nav-toggle">Menu<span></span></a> </div>
   </header>
-  <!-- banner text --> 
+<!-- banner text --> 
     <!-- <div class="banner" id="banner">  -->
-    <div class="euindia-banner"><img src="<?php echo $banner_url; ?>"></div>
+    <!-- <div class="euindia-banner"><img src="<?php echo $banner_url; ?>"></div> -->
+
+    <!-- <section
+        data-type="background" data-speed="10" class="euindia-banner" id="rotator" 
+        style="background-image: url('<?php echo $banner_url; ?>');      
+    "></section> -->
+
+    <div class="bg-image"  style="background-image: url('<?php echo $banner_url; ?>');  "></div>
+    <div class="bg-text"> 
+        <div class="euindia-banner"><img src="<?php echo $banner_url; ?>"></div>
+    </div>
+
+
     <!-- <div class="slider-banner">
             <div data-lazy-background="images/slides/3.jpg"  >  -->
                 <!-- <h3 data-pos="['68%', '-40%', '58%', '42%']" data-duration="700" data-effect="move">
